@@ -25,11 +25,13 @@ CLANG_PATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 echo "Path1"
 echo "$CLANG_PATH"
 # CODE2VEC_LOC - should be the location of base codevec
-CODE2VEC_LOC=/Users/unaissiddiqui/Desktop/Fyp/code2vec2
+# CODE2VEC_LOC=/Users/unaissiddiqui/Desktop/Fyp/code2vec2
+CODE2VEC_LOC=/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline
 echo "Path2"
 echo "$CODE2VEC_LOC"
 # SOURCE_DIR - top level folder for C source files
-SOURCE_DIR=/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/unique_ids2
+# SOURCE_DIR=/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/unique_ids2
+SOURCE_DIR=/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/data/unique_ids2
 echo "Path3"
 echo "$SOURCE_DIR"
 
