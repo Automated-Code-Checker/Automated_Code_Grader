@@ -21,15 +21,15 @@
 
 # External dependencies
 # CLANG_PATH - should be set to the location of lib clang
-CLANG_PATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libclang.dylib
+CLANG_PATH=C:/LLVM/bin/libclang.dll
 echo "Path1"
 echo "$CLANG_PATH"
 # CODE2VEC_LOC - should be the location of base codevec
-CODE2VEC_LOC=/Users/unaissiddiqui/Desktop/Fyp/code2vec2
+CODE2VEC_LOC=D:/Fast/FYP/final_model/Code2vec_Pytorch_pipeline
 echo "Path2"
 echo "$CODE2VEC_LOC"
 # SOURCE_DIR - top level folder for C source files
-SOURCE_DIR=/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/unique_ids2
+SOURCE_DIR=D:/Fast/FYP/final_model/Code2vec_Pytorch_pipeline/data/unique_ids2
 echo "Path3"
 echo "$SOURCE_DIR"
 
@@ -60,14 +60,18 @@ DOWNSAMPLE=1
 #   and newer (12 GB of board memory).
 
 DATASET_NAME=unique_ids2_emb
+#git-repos-32
 MAX_CONTEXTS=200
 WORD_VOCAB_SIZE=1301136
 PATH_VOCAB_SIZE=911417
 TARGET_VOCAB_SIZE=261245
-NUM_THREADS=64
-PYTHON=python3
+NUM_THREADS=60
+PYTHON=python
 
 # Don't edit below this line
-CODE2VEC_LOC=$(realpath ${CODE2VEC_LOC})
-CLANG_PATH=$(realpath ${CLANG_PATH})
-SOURCE_DIR=$(realpath ${SOURCE_DIR})
+CODE2VEC_LOC=${CODE2VEC_LOC}
+CLANG_PATH=${CLANG_PATH}
+SOURCE_DIR=${SOURCE_DIR}
+
+echo "$CODE2VEC_LOC"
+echo "$CLANG_PATH"

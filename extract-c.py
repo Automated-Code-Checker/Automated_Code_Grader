@@ -44,7 +44,7 @@ def background_function(file, stdout):
 
 # Generate a basic cmd array
 def generate_cmd(args):
-    command = ['python3', 'cparser.py', "--clang-path", args.clang_path, "--max-leaves", args.max_leaves]
+    command = ['python', 'cparser.py', "--clang-path", args.clang_path, "--max-leaves", args.max_leaves]
     if args.include_path is not None and len(args.include_path) > 0:
         command.extend(["--include-path", args.include_path])
     if args.decls is not None:
@@ -99,7 +99,7 @@ def ExtractFeaturesForDirsList(args, dirs):
         p = multiprocessing.Pool(int(args.num_threads))
         p.starmap(ParallelExtractDir, zip(itertools.repeat(args), dirs))
         # output_files = os.listdir(TMP_DIR)
-        os.system("gzcat %s/%s" % (TMP_DIR, "*"))
+        os.system("cat %s/%s" % (TMP_DIR, "*"))
     finally:
         sys.stderr.write('Dumped files, saving intermediates.')
         shutil.rmtree(TMP_DIR, ignore_errors=True)

@@ -19,7 +19,7 @@ class common:
 
     @staticmethod
     def _load_vocab_from_histogram(path, min_count=0, start_from=0, return_counts=False):
-        with open(path, 'r') as file:
+        with open(path, 'r',encoding='latin1') as file:
             word_to_index = {}
             index_to_word = {}
             word_to_count = {}
