@@ -62,9 +62,9 @@ class TrainingModule:
             if val_f1 < best_val_f1:
                 best_val_f1 = val_f1
                 
-                if self.checkpoint and bert:
+                if self.checkpoint and bert == True:
                     torch.save(self.model.state_dict(), './' + self.dataset + '_bert_model.pth')
-                elif self.checkpoint and not bert:
+                elif self.checkpoint and bert == False:
                     torch.save(self.model.state_dict(), './' + self.dataset + '_article_model.pth')
             
             if self.scheduler is not None:
