@@ -69,9 +69,6 @@ def main():
         include_path = append_include(dir_path)
         add_dir_if_exists(include_dirs, include_path)
         f=sys.stdout
-        file_path = '/Users/unaissiddiqui/Desktop/Fyp/code2vec/data/Data2.csv'
-        __file = open(file_path,'a',newline="")
-        writer = csv.writer(__file)
         for dir in [x[0] for x in os.walk(dir_path)]:
             inner_dirs = [dir]
             include_path = append_include(dir)
@@ -80,7 +77,6 @@ def main():
             for file in files:
                 try:
                     parse_single(file, include_dirs + inner_dirs, index)
-                    writer.writerow([marks])
                     f.write("\n")    # uncomment when working on personal model
                 except:
                     sys.stderr.write("Exception parsing file:"+file+"\n")
@@ -165,7 +161,7 @@ def root_level(top_nodes):
             try:
                 func_root = traverse(top_node)
                 functions.append(func_root)
-                if ARGS.dump_tree: traverse_to_print(func_root,f)
+                if ARGS.dump_tree: traverse_to_print(func_root)
                 generate_and_print_paths(func_root)
             except Exception:    
                 # Print and eat all excptions so we don't stop parsing for one bad function.
