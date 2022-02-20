@@ -20,7 +20,7 @@ class TrainingModule:
         self.early_stop = early_stop
         self.DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
         
-    def train(self):
+    def train(self, bert, dataset):
         list_train_loss = []
         list_val_loss = []
         list_train_precision = []
@@ -34,6 +34,9 @@ class TrainingModule:
         
         self.model.to(self.DEVICE)
         self.criterion = self.criterion.to(self.DEVICE)
+
+        self.bert = bert
+        self.dataset = dataset
         
         for epoch in range(self.epochs):
           
@@ -59,8 +62,10 @@ class TrainingModule:
             if val_f1 < best_val_f1:
                 best_val_f1 = val_f1
                 
-                if self.checkpoint:
-                    torch.save(self.model.state_dict(), './best_model.pth')
+                if self.checkpoint and bert:
+                    torch.save(self.model.state_dict(), './' + self.dataset + '_bert_model.pth')
+                elif self.checkpoint and not bert:
+                    torch.save(self.model.state_dict(), './' + self.dataset + '_article_model.pth')
             
             if self.scheduler is not None:
                 self.scheduler.step(train_loss)
