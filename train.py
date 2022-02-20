@@ -29,25 +29,25 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_folder = 'unique_ids2_emb'
+    data_root = 'unique_ids2_emb'
     dataset_name = 'unique_ids2_emb'
 
-    dict_path = 'data/'+ data_folder + '/' + dataset_name + '.dict.c2v'
+    dict_path = 'data/'+ data_root + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
 
-    path_for_train = 'data/'+ data_folder + '/' + dataset_name + '.train.c2v'
+    path_for_train = 'data/'+ data_root + '/' + dataset_name + '.train.c2v'
     train_dataset = data_to_tensors.TextDataset(path_for_train, 
                                                         word2idx, 
                                                         path2idx, 
                                                         target2idx)
 
-    path_for_val = 'data/'+ data_folder + '/' + dataset_name + '.val.c2v'
+    path_for_val = 'data/'+ data_root + '/' + dataset_name + '.val.c2v'
     val_dataset = data_to_tensors.TextDataset(path_for_val, 
                                                         word2idx, 
                                                         path2idx, 
                                                         target2idx)
 
-    path_for_test = 'data/'+ data_folder + '/' + dataset_name + '.test.c2v'
+    path_for_test = 'data/'+ data_root + '/' + dataset_name + '.test.c2v'
     test_dataset = data_to_tensors.TextDataset(path_for_test, 
                                                         word2idx, 
                                                         path2idx, 
