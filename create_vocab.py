@@ -2,7 +2,7 @@ import pickle
 
 def create_vocab(path):
 
-    with open(path, 'rb') as file:
+    with open(path, 'rb',errors="ignore") as file:
         word2count = pickle.load(file)
         path2count = pickle.load(file)
         target2count = pickle.load(file)

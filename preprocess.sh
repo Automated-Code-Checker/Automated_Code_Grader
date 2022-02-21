@@ -12,6 +12,8 @@
 # 2. LLVM / CLANG (https://github.com/llvm-mirror/clang/blob/master/LICENSE.TXT) Copyright 2019 LLVM.
 # DM19-0540
 
+export LC_ALL='C'
+
 # Configuration is relative to this script
 realpath() {
     [[ $1 = /* ]] && echo "$1" || echo "$PWD/${1#./}"

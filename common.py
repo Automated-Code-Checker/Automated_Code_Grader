@@ -19,7 +19,7 @@ class common:
 
     @staticmethod
     def _load_vocab_from_histogram(path, min_count=0, start_from=0, return_counts=False):
-        with open(path, 'r',encoding='latin1') as file:
+        with open(path, 'r',errors="ignore") as file:
             word_to_index = {}
             index_to_word = {}
             word_to_count = {}
@@ -60,7 +60,7 @@ class common:
     @staticmethod
     def load_json(json_file):
         data = []
-        with open(json_file, 'r') as file:
+        with open(json_file, 'r',errors="ignore") as file:
             for line in file:
                 current_program = common.process_single_json_line(line)
                 if current_program is None:
@@ -71,7 +71,7 @@ class common:
 
     @staticmethod
     def load_json_streaming(json_file):
-        with open(json_file, 'r') as file:
+        with open(json_file, 'r',errors="ignore") as file:
             for line in file:
                 current_program = common.process_single_json_line(line)
                 if current_program is None:
@@ -111,7 +111,7 @@ class common:
 
     @staticmethod
     def load_file_lines(path):
-        with open(path, 'r') as f:
+        with open(path, 'r',errors="ignore") as f:
             return f.read().splitlines()
 
     @staticmethod
@@ -193,7 +193,7 @@ class common:
 
     @staticmethod
     def count_lines_in_file(file_path: str):
-        with open(file_path, 'rb') as f:
+        with open(file_path, 'rb',errors="ignore") as f:
             bufgen = takewhile(lambda x: x, (f.raw.read(1024 * 1024) for _ in repeat(None)))
             return sum(buf.count(b'\n') for buf in bufgen)
 

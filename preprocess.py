@@ -8,11 +8,10 @@ This script preprocesses the data from MethodPaths. It truncates methods with to
 and pads methods with less paths with spaces.
 '''
 
-
 def save_dictionaries(dataset_name, word_to_count, path_to_count, target_to_count,
                       num_training_examples):
     save_dict_file_path = '{}.dict.c2v'.format(dataset_name)
-    with open(save_dict_file_path, 'wb') as file:
+    with open(save_dict_file_path, 'wb',errors="ignore") as file:
         pickle.dump(word_to_count, file)
         pickle.dump(path_to_count, file)
         pickle.dump(target_to_count, file)
