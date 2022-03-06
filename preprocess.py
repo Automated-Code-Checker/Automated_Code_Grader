@@ -32,7 +32,9 @@ def process_file(file_path, data_file_role, dataset_name, word_to_count, path_to
             for line in file:
                 parts = line.rstrip('\n').split(' ')
                 # print('PRTSS : ' , parts)
-                target_name = parts[0]
+                target_name = parts[0]  #alishbah wali marks-func_name
+                # marks = parts[0].split('-')
+                # print("markssssss" , marks[0])
                 # print("TARGET NAME : " + target_name)
                 contexts = parts[1:] #List of context context1 n say lekar printf tk
                 # print("TYPEEEEEE : " + str(type(contexts)))
@@ -140,6 +142,7 @@ if __name__ == '__main__':
         if data_role == 'train':
             num_training_examples = num_examples
 
+    print(target_to_count)
     save_dictionaries(dataset_name=args.output_name, word_to_count=word_to_count,
                       path_to_count=path_to_count, target_to_count=target_to_count,
                       num_training_examples=num_training_examples)

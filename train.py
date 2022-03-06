@@ -29,8 +29,8 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_folder = 'unique_ids2_emb'
-    dataset_name = 'unique_ids2_emb'
+    data_folder = 'Codes_embedding'
+    dataset_name = 'Codes_embedding'
 
     dict_path = 'data/'+ data_folder + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)

@@ -26,6 +26,7 @@ import sys
 from pathlib import Path
 from argparse import ArgumentParser
 from subprocess import Popen, PIPE, STDOUT, call
+from unicodedata import name
 
 
 def get_immediate_subdirectories(a_dir):
@@ -98,7 +99,8 @@ def ExtractFeaturesForDirsList(args, dirs):
     try:
         p = multiprocessing.Pool(int(args.num_threads))
         p.starmap(ParallelExtractDir, zip(itertools.repeat(args), dirs))
-        # output_files = os.listdir(TMP_DIR)
+        # sys.stderr.write("hellooo " + str(dirs))
+        output_files = os.listdir(TMP_DIR)
         os.system("gzcat %s/%s" % (TMP_DIR, "*"))
     finally:
         sys.stderr.write('Dumped files, saving intermediates.')
@@ -127,6 +129,9 @@ if __name__ == '__main__':
         to_extract = subdirs
         if len(subdirs) == 0:
             to_extract = [args.dir.rstrip('/')]
+
+        # f = open('test.txt', 'w')
+        # f.write(str(to_extract))
         ExtractFeaturesForDirsList(args, to_extract)
 
 
