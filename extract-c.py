@@ -125,6 +125,7 @@ if __name__ == '__main__':
     elif args.dir is not None:
         subdirs = get_immediate_subdirectories(args.dir)
         to_extract = subdirs
+        arr = os.listdir()
         if len(subdirs) == 0:
             to_extract = [args.dir.rstrip('/')]
         ExtractFeaturesForDirsList(args, to_extract)

@@ -22,6 +22,8 @@ import subprocess
 import random
 import glob
 import csv
+import pandas as pd
+
 
 # Regexp to | seperate function names Works on _ and camel case functions (taken from code2vec java)
 EXP = re.compile(r"(?<=[a-z])(?=[A-Z])|_|[0-9]|(?<=[A-Z])(?=[A-Z][a-z])|\\s+")
@@ -29,6 +31,7 @@ EXP = re.compile(r"(?<=[a-z])(?=[A-Z])|_|[0-9]|(?<=[A-Z])(?=[A-Z][a-z])|\\s+")
 DUP = re.compile(r"\|\|+")
 
 def main():
+    global marks
     parser = argparse.ArgumentParser("Parse c code to path objects")
     parser.add_argument("--clang-path", dest="clang_path",
                       help="Path to clang shared library", metavar="CLANG", type=str, required=True)
@@ -61,11 +64,13 @@ def main():
     index = Index.create()
     
     include_dirs = setup_includes()
-    
+    marks = 0
     dir_path = ARGS.dir_path
     if dir_path is not None:
         dir_path = os.path.normpath(dir_path)
         marks = dir_path.split('/')[-1] 
+        # fl = open("hello.txt",'r')
+        # df = pd.read_csv('combined_data.csv')
         include_path = append_include(dir_path)
         add_dir_if_exists(include_dirs, include_path)
         f=sys.stdout
@@ -75,8 +80,24 @@ def main():
             add_dir_if_exists(inner_dirs, include_path)
             files = glob.glob(dir.rstrip(os.sep) + os.sep + "*.c")
             for file in files:
+                # dat = fl.read()
+                # fl.close()
+                # fl.write(file)
+                # dat = fl.readlines()
+                # print(dat)
+                df = pd.read_csv('/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/csvs/Data_Marks.csv')
+                # var = file.split('/')[-1]
+                # print(var)
+                df1 = df.loc[df['FileName'] == file.split('/')[-1]]
+                # print(df1)
+                # df1 = df.loc[df['FileName'] == 'number2.c']
+                marks = int(df1['Marks'])
+                # f.write(marks)
+                #yahanprint kra kr dekhlo k marks are k nai
+                # each try k ander bef marks - marks-embedding(3) marks in preprocess file in csv
                 try:
-                    parse_single(file, include_dirs + inner_dirs, index)
+                    # f.write(marks)         #marks in first line(?) 
+                    parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
                     f.write("\n")    # uncomment when working on personal model
                 except:
                     sys.stderr.write("Exception parsing file:"+file+"\n")
@@ -225,6 +246,8 @@ def generate_and_print_paths(function, f=sys.stdout):
     decl_tag = "functiondecl_"
     func_name = function.displayname
     leaves = []
+    f.write(str(marks))
+    # f.write(" ")    
     get_all_leaves(function, leaves)
     if len(leaves) <= 1: return # Won't have any code paths
     # These lines are a departute from how code2vec parses trees
@@ -242,7 +265,7 @@ def generate_and_print_paths(function, f=sys.stdout):
             return
         else:
             func_name = decl_tag + func_name
-    f.write(normalize_function_name(func_name))
+    # f.write(normalize_function_name(func_name))
     for s in leaves:
         uptree = walk_to_root(s)
         for e in leaves:

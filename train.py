@@ -1,6 +1,7 @@
 import create_vocab
 import data_to_tensors
 import model_implementation
+# import lstm_t as model_implementation
 from train_class import TrainingModule
 
 import torch
@@ -29,11 +30,14 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_root = 'unique_ids2_emb'
-    dataset_name = 'unique_ids2_emb'
+    data_root = 'CODES_emb'
+    dataset_name = 'CODES_emb'
 
     dict_path = 'data/'+ data_root + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
+
+    # print(target2idx)
+    # exit()
 
     path_for_train = 'data/'+ data_root + '/' + dataset_name + '.train.c2v'
     train_dataset = data_to_tensors.TextDataset(path_for_train, 
@@ -55,7 +59,7 @@ def main():
 
     train_loader = DataLoader(train_dataset, batch_size=512, shuffle=True)
     val_loader = DataLoader(val_dataset, batch_size=512, shuffle=False)
-    test_loader = DataLoader(train_dataset, batch_size=512, shuffle=False)
+    test_loader = DataLoader(test_dataset, batch_size=512, shuffle=False)
 
     # In case of bert
     bert_params = dict()

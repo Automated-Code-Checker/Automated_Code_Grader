@@ -31,7 +31,7 @@ echo "Path2"
 echo "$CODE2VEC_LOC"
 # SOURCE_DIR - top level folder for C source files
 # SOURCE_DIR=/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/unique_ids2
-SOURCE_DIR=/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/data/unique_ids2
+SOURCE_DIR=/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/data/CODES
 echo "Path3"
 echo "$SOURCE_DIR"
 
@@ -62,7 +62,7 @@ DOWNSAMPLE=1
 #   and newer (12 GB of board memory).
 
 # DATASET_NAME=unique_ids2_emb
-DATASET_NAME=functions_emb
+DATASET_NAME=CODES_emb
 MAX_CONTEXTS=200
 WORD_VOCAB_SIZE=1301136
 PATH_VOCAB_SIZE=911417
