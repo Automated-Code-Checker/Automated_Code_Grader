@@ -64,7 +64,7 @@ def main():
     index = Index.create()
     
     include_dirs = setup_includes()
-    marks = 0
+    # marks = 0
     dir_path = ARGS.dir_path
     if dir_path is not None:
         dir_path = os.path.normpath(dir_path)
@@ -96,7 +96,7 @@ def main():
                 #yahanprint kra kr dekhlo k marks are k nai
                 # each try k ander bef marks - marks-embedding(3) marks in preprocess file in csv
                 try:
-                    # f.write(marks)         #marks in first line(?) 
+                    f.write(str(marks))         #marks in first line(?) 
                     parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
                     f.write("\n")    # uncomment when working on personal model
                 except:
@@ -246,7 +246,7 @@ def generate_and_print_paths(function, f=sys.stdout):
     decl_tag = "functiondecl_"
     func_name = function.displayname
     leaves = []
-    f.write(str(marks))
+    # f.write(str(marks))
     # f.write(" ")    
     get_all_leaves(function, leaves)
     if len(leaves) <= 1: return # Won't have any code paths
