@@ -1,0 +1,3949 @@
+TMPDL : /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes_embedding/feature_extractor/
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/951.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/686.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/815.c::110::10/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/482.c:1:10::1: fatal error fatal error: :  fatal error'stdio.h' file not found
+'stdio.h' file not found10: 
+#include <stdio.h>
+:'stdio.h' file not found         ^~~~~~~~~
+
+ fatal error: #include <stdio.h>#include <stdio.h>
+         ^~~~~~~~~
+
+         ^~~~~~~~~1 error generated.
+
+'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/700.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/371.c:1:101 error generated.
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/192.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/899.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/688.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/661.c:1:10:
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/235.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/874.c  fatal error: 'stdio.h' file not found
+1: error generated.
+1fatal error: 'stdio.h' file not found
+:#include <stdio.h>
+         ^~~~~~~~~
+10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+1 error generated.
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/521.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/811.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/893.c:#include <stdio.h>
+         ^~~~~~~~~
+1:1 error generated.
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/396.c:2:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/46.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/830.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/682.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+#include <stdio.h>
+         ^~~~~~~~~
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/465.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/175.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error1 error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/698.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/851.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/930.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/310.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/855.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error1 error generated.
+1 error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/801.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/834.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/198.c:1:10: fatal error1 error generated.
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/254.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/692.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/870.c:1:10: fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/600.c:1:10:'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/805.c
+ /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/488.c:1:#include <stdio.h>
+:1:10:fatal error         ^~~~~~~~~
+:  10'stdio.h' file not found
+: fatal errorfatal error: : 'stdio.h' file not found
+'stdio.h' file not found#include <stdio.h>#include <stdio.h>
+         ^~~~~~~~~
+
+         ^~~~~~~~~
+
+1#include <stdio.h>
+ error1 error         ^~~~~~~~~
+ generated1.
+ generated.
+ error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/744.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/696.c1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/540.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/897.c:1::101::110::  fatal error: fatal error: 'stdio.h' file not found
+'stdio.h' file not found
+:10:#include <stdio.h>10: fatal error #include <stdio.h>: 
+         ^~~~~~~~~
+
+         ^~~~~~~~~
+'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+1#include <stdio.h>
+         ^~~~~~~~~
+         ^~~~~~~~~1 error error generated.
+
+ generated1 error generated.
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/114.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/845.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/404.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/685.c:1:14: fatal error: 'stdio.h' file not found
+    #include <stdio.h>
+             ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/440.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/27.c:
+1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/812.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/824.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/860.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/681.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/210.c:1:10: 1 error generated.
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/63.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/887.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/808.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/150.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/354.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/421.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/993.cfatal error: 'stdio.h' file not found:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/802.c: fatal error
+1:10:: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/889.c'stdio.h' file not found
+:1#include <stdio.h>
+         ^~~~~~~~~#include <stdio.h>
+         ^~~~~~~~~
+
+:10: fatal error fatal error: 'stdio.h' file not found
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+11 error generated.
+1 error error generated.
+ generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/691.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/504.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/864.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/786.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10:1 error generated.
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/296.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/806.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/644.c:1:10:
+  fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/883.c:1:10:#include <stdio.h>#include <stdio.h>
+         ^~~~~~~~~
+
+ fatal error:          ^~~~~~~~~
+fatal error1 error generated.
+'stdio.h' file not found
+: 1 error generated.
+'stdio.h' file not found#include <stdio.h>
+         ^~~~~~~~~
+
+#include <stdio.h>
+         ^~~~~~~~~1 error generated.
+
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/761.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/820.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/588.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/695.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/84.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/841.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/271.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/974.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/690.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/335.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/833.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/131.c:1:9/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/803.c:1:10: fatal error: 'stdio.h' file not found
+: fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/782.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/858.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/292.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/809.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/565.c:1:#include <stdio.h>10:10 fatal error: 'stdio.h' file not found
+
+         ^~~~~~~~~
+:#include <stdio.h> fatal error: 'stdio.h' file not found
+
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/852.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/694.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/839.c#include <stdio.h>/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/425.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/999.c:1:9:1:10: fatal error: 'stdio.h' file not found
+:
+         ^~~~~~~~~
+1 #include <stdio.h>:10fatal error::  1'stdio.h' file not foundfatal error: 
+
+'stdio.h' file not found
+ error generated         ^~~~~~~~~.
+#include <stdio.h>
+#include<stdio.h>
+        ^~~~~~~~~
+
+         ^~~~~~~~~
+1 error generated.
+1 error generated1 error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/69.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/807.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/816.c:1:10: fatal error:  'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/275.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/877.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/625.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+1#include <stdio.h>
+         ^~~~~~~~~ error generated.
+
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/687.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/582.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/890.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/683.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+ error1 error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/331.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/873.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/298.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/810.c:1:10: fatal error: 'stdio.h' file not found1 error generated.
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/818.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/689.c:1:10: fatal error: 'stdio.h' file not found
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/444.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/915.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/693.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/894.c:10:: fatal error: 'stdio.h' file not found
+1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/500.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/135.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/699.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/788.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/879.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/561.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/856.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/697.c#include <stdio.h>
+         ^~~~~~~~~
+:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/704.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/911.c:1:fatal error: 9: 1 error  generated.
+fatal errorfatal error: : 'stdio.h' file not found
+'stdio.h' file not found
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~#include<stdio.h>
+        ^~~~~~~~~
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/837.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/586.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00/804.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/214.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/863.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/621.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+ error generated1 error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/350.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/314.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/884.c:1:10::10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/67.c: fatal error: 'stdio.h' file not found
+1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~1 error generated.
+
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/869.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/154.c:1:10: fatal error: 'stdio.h' file not found
+1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/250.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>#include <stdio.h> fatal error
+: 'stdio.h' file not found
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+         ^~~~~~~~~
+1 error generated.
+
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/740.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/846.c:fatal error: 'stdio.h' file not found
+1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/997.c :1:10:#include <stdio.h>
+fatal error fatal error: : 'stdio.h' file not found
+'stdio.h' file not found
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+11 error generated.
+ error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/827.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/400.c:1:10:fatal error fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/80.c'stdio.h' file not found
+:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+1 error generated.
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/970.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/823.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated#include <stdio.h>
+         ^~~~~~~~~
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/398.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/848.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/640.c:1:1010: fatal error: 'stdio.h' file not found
+: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/375.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/231.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/842.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/604.c:1:10:1#include <stdio.h>:
+         ^~~~~~~~~
+10:  fatal error: 'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>#include <stdio.h>
+         ^~~~~~~~~
+
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/721.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/829.c1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/934.c::1:10: 1fatal error: :'stdio.h' file not found
+ 10fatal error: : 'stdio.h' file not found
+#include <stdio.h>
+fatal error         ^~~~~~~~~: #include <stdio.h>
+'stdio.h' file not found
+
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error1 error generated generated.
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/486.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/867.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/544.c fatal error: :1 error generated.
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>    
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/110.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/880.c:1:10: fatal error: 'stdio.h' file not found
+1:9:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/461.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/392.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/23.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+11 error generated error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/838.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/853.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/792.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/48.c#include <stdio.h>
+:1:10::         ^~~~~~~~~1:10: fatal error fatal error: 'stdio.h' file not found
+: 
+'stdio.h' file not found#include <stdio.h>
+         ^~~~~~~~~
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/665.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/859.c#include <stdio.h>
+:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/282.c         ^~~~~~~~~1:
+10: fatal error: 'stdio.h' file not found
+:1:10:#include <stdio.h> fatal error: 
+         ^~~~~~~~~
+'stdio.h' file not found
+1#include <stdio.h>
+         ^~~~~~~~~
+ error generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/832.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/435.c fatal error:: 1'stdio.h' file not found
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/955.c#include <stdio.h>
+         ^~~~~~~~~
+:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/775.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/891.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/196.c#include <stdio.h>
+         ^~~~~~~~~
+:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/321.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/525.c: 1:10:fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/876.c'stdio.h' file not found:1:10: fatal error: 'stdio.h' file not found
+ 
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+#include <stdio.h>
+         ^~~~~~~~~
+         ^~~~~~~~~1 error
+ generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/817.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/42.c:1:10: fatal error: 'stdio.h' file not found
+ /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/265.c:#include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+1 error generated.
+1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/878.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/288.c:1:10:#include <stdio.h>/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/171.c
+         ^~~~~~~~~
+ :1:10:fatal error fatal error: 'stdio.h' file not found
+: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~#include <stdio.h>
+
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/454.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/813.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/798.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/895.c:1:10         ^~~~~~~~~
+:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/16.c:1:10: fatal error: 'stdio.h' file not found
+ #include <stdio.h>fatal error
+         ^~~~~~~~~
+: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/125.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/819.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/340.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/571.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/872.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/204.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/3.c
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/836.c:1:10:1:10:: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+11 error error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/857.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/240.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/901.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/596.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/304.c:1:#include <stdio.h>
+10/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/868.c:1:10::         ^~~~~~~~~ fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+11 error generated#include <stdio.h>
+         ^~~~~~~~~ error generated.
+
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/631.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/885.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/750.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/862.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/144.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/410.c: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+11 error generated.
+ error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/77.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/826.c:1:10: fatal error:: 1'stdio.h' file not found
+:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/388.c10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+:1:10:#include <stdio.h>
+1 error fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+ generated.
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/847.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/510.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/221.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/828.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/365.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/987.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/843.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/90.c:1:10: fatal error: 'stdio.h' file not found
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/496.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/960.c:1:10:1 error generated.
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/849.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/650.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/471.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/822.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/881.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/382.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/9.c:1:101#include <stdio.h>
+         ^~~~~~~~~
+ error: fatal error:  generated.
+'stdio.h' file not found
+1#include <stdio.h>
+         ^~~~~~~~~
+ error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/866.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/614.c: fatal error: 'stdio.h' file not found
+1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/492.c10::1:10:#include <stdio.h>
+          ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/924.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/892.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/225.c:1:10: fatal error: #include <stdio.h>
+         ^~~~~~~~~'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/875.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/554.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/735.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/33.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/898.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/386.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/814.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/100.c#include <stdio.h>:
+ fatal error: 1:10: fatal error: 'stdio.h' file not found
+         ^~~~~~~~~'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~#include <stdio.h>
+         ^~~~~~~~~
+
+1 error generated.
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/475.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/850.c:1:10: fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/58.c:1:10:1 error generated.
+ fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/244.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/831.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/675.c:1:10:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/945.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/300.c:1:101 error generated.
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/835.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/186.c:1:10: fatal error/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/854.c:1:10: fatal error: 'stdio.h' file not found
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/498.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/535.c:1:10/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/754.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/896.c fatal error: 'stdio.h' file not found
+::1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+ fatal error: #include <stdio.h>1 error generated.
+
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/871.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/161.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/414.c:1:10:#include <stdio.h> 
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+fatal error#include <stdio.h>
+         ^~~~~~~~~
+: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/825.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/450.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/52.c:1:10:10::1:10: fatal error: 'stdio.h' file not found
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+ #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+1 error generated.
+1 error generated#include <stdio.h>
+         ^~~~~~~~~
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/844.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/710.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/39.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/900.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/941.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/344.c:1:10:: 1 error generated.
+'stdio.h' file not found fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/182.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/886.c10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/431.c:#include <stdio.h>
+1:         ^~~~~~~~~
+10::1:10:1 error generated.
+ fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~#include <stdio.h>
+         ^~~~~~~~~
+
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/861.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/796.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/671.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/882.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/531.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/286.c:1:10: fatal error:  'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+fatal error#include <stdio.h>
+         ^~~~~~~~~
+: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/165.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/771.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/865.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/56.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/325.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/888.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/920.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/261.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/840.c :fatal error: 1:#include <stdio.h>9:'stdio.h' file not found
+
+         ^~~~~~~~~
+ #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+1 error generated.
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/428.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50/821.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/188.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/610.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/768.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/550.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/37.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/278.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>1 error generated.
+
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/104.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/357.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/140.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/213.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/73.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/983.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/295.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/514.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/785.c:1:10: fatal error: 'stdio.h' file not found1 error generated.
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/18.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/449.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/422.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/654.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/598.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/709.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/219.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/200.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/94.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/336.c fatal error:1:10:: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/272.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/964.c:1:10:#include <stdio.h>
+ fatal error: 'stdio.h' file not found
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/762.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/12.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/121.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/726.c10: fatal error: 'stdio.h' file not found
+:1:10:#include <stdio.h> fatal error: 'stdio.h' file not found
+
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error1 error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/236.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/575.c:1:10: fatal error#include <stdio.h>: 'stdio.h' file not found
+         ^~~~~~~~~
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/372.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/989.c:1:10: fatal error: 'stdio.h' file not found#include <stdio.h>
+         ^~~~~~~~~
+
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/319.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/79.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/481.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/635.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/466.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/7.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/395.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/592.c:1:10: fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/905.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/747.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/138.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/257.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: #include <stdio.h>
+         ^~~~~~~~~'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/313.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/507.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/990.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/378.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/153.c:1:9: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/407.c:1:10:
+ fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/60.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/238.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/977.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/728.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/87.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/743.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/647.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/253.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/159.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/317.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/566.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/468.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/132.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/403.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/916.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/259.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/581.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/749.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/485.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/626.c:1:10:fatal error fatal error: 'stdio.h' file not found
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/722.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/662.c:1:#include <stdio.h>
+         ^~~~~~~~~10:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/232.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/939.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/191.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/376.c:1:10#include <stdio.h>
+         ^~~~~~~~~: fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/409.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/609.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/391.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/952.c:1:10: fatal error:  fatal error: 'stdio.h' file not found
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/462.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/176.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/426.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/45.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/291.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/522.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/781.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/549.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/332.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/958.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/276.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/603.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/933.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/766.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/359.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/668.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/24.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/447.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/353.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/117.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/217.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/543.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/528.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/707.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/338.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/937.c:#include <stdio.h>
+1:10:         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error1 error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/228.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/607.c:1:10:1 error generated.
+ fatal error: 'stdio.h' file not found
+ #include<stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/178.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/738.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/20.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/753.c:1:10#include <stdio.h>
+: fatal error:          ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/113.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/307.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>1 error generated.
+
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/243.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/547.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/478.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/195.c:1:10:  fatal error: 'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/413.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/956.c:1:9:#include <stdio.h> fatal error: 'stdio.h' file not found
+
+         ^~~~~~~~~
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/249.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/666.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/759.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/119.c:1:10
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/172.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/495.c:1:10: fatal error: 'stdio.h' file not found
+1 error#include <stdio.h>
+         ^~~~~~~~~
+ generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/41.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/366.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/526.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/562.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/222.c:1:10:#include <stdio.h>
+         ^~~~~~~~~ fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/136.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/419.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/509.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/381.c#include <stdio.h>
+         ^~~~~~~~~
+:1:10: fatal error: 'stdio.h' file not found
+1#include <stdio.h>
+         ^~~~~~~~~
+ error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/472.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/89.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/436.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/979.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/622.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/281.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/791.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/585.c:1:10: fatal error:  'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/266.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/912.c:1#include <stdio.h>
+:10:         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/649.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/322.c:1:10: fatal error: 'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/776.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/994.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/503.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/349.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/457.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/157.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/207.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/64.c1:1:10: fatal error: 'stdio.h' file not found
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/343.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/568.c:#include <stdio.h>
+3:10:         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/643.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/717.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/328.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/918.c#include <stdio.h>
+         ^~~~~~~~~
+:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/628.c:1:9: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/438.c:1:10:#include<stdio.h>
+        ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/973.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/453.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error#include <stdio.h>
+         ^~~~~~~~~
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/83.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/268.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/927.c:1:9: fatal error: 'stdio.h' file not found
+1:#include<stdio.h>
+10:        ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>1 error generated
+         ^~~~~~~~~
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/203.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/617.c:1:10: fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/347.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/168.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/103.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/713.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/30.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/285.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/557.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/795.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/459.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/185.c:1:10: fatal error: 'stdio.h' file not found
+:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/946.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/432.c:1:#include <stdio.h>
+10:         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/719.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/676.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/209.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/109.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/262.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/51.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/162.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/326.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/536.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/772.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/572.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/736.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error#include <stdio.h>
+         ^~~~~~~~~
+ generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/362.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/126.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/226.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/15.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/519.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/491.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/99.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/476.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/632.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated1 error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/385.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/969.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/595.c:1:9:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/757.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/659.c:1:10: fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/303.c:'stdio.h' file not found
+1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/247.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/902.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/368.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/984.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/513.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/417.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/74.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/337.c:1:10#include <stdio.h>   
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/147.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/273.c:1:10:  fatal error: fatal error: 'stdio.h' file not found
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/763.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/578.c:1:10: fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/708.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/908.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/218.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/653.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/423.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/963.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/294.c:1:10: fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/638.c:1'stdio.h' file not found
+:#include <stdio.h>
+         ^~~~~~~~~
+9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/93.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/448.c:2:9:#include <stdio.h>
+ fatal error:          ^~~~~~~~~
+'stdio.h' file not found
+1 error generated.
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/128.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/784.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/517.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/356.c:1:10: fatal error: #include <stdio.h>
+'stdio.h' file not found
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/980.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/212.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>1 error generated.
+
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/702.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/70.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/769.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/143.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/279.c:1:10: fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/967.c:1:10: fatal error: 'stdio.h' file not found
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/97.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/442.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/657.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/429.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/149.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/406.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/576.c:1:10: fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/379.c:1:10: fatal error: 'stdio.h' file not found
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/746.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/122.c:1:10#include <stdio.h>
+         ^~~~~~~~~: fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/11.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/256.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/906.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/312.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/394.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/591.c:1:10: fatal error: 'stdio.h' file not found
+:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/467.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/4.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/318.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/636.c:1:10:#include <stdio.h>
+ fatal error:          ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/929.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/480.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/727.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/672.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated1 error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/237.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/181.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/942.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/373.c:1:10#include <stdio.h>
+         ^~~~~~~~~:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/619.c:1:9:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/463.c:1: fatal error: 'stdio.h' file not found
+10: fatal error: 'stdio.h' file not found#include<stdio.h>
+        ^~~~~~~~~
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/408.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/55.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/390.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/166.c:1:#include <stdio.h>
+         ^~~~~~~~~
+9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/723.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/532.c:1:#include <stdio.h>
+         ^~~~~~~~~10:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/233.c:1:10: fatal error: 'stdio.h' file not found/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/559.c:1:10:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/613.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/377.c#include <stdio.h>
+         ^~~~~~~~~
+:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/948.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/258.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/484.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/678.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/748.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/923.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/402.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/107.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/469.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/34.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/742.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/553.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/252.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/538.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/316.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/627.c:1:10:#include <stdio.h>
+         ^~~~~~~~~ fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/580.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/239.c:1:1:10: fatal error: 'stdio.h' file not found
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/917.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/729.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error1 error generated: 'stdio.h' file not found
+.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/339.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/567.c:1:10: fatal error: 'stdio.h' file not found
+fatal error: 'stdlib.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdlib.h>
+         ^~~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/133.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/352.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/158.c:1:10/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/216.c:1:: fatal error: 'stdio.h' file not found
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/646.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/706.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/976.c:1:10: fatal error/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/446.c:1:10: fatal error: 'stdio.h' file not found
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/358.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/86.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/333.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/991.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/277.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/506.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/61.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/767.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/152.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/290.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/780.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/139.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/529.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/427.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/473.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/116.c:1:10:#include <stdio.h> fatal error: 'stdio.h' file not found
+
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/25.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/418.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/542.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/380.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/733.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/669.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/932.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/367.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/223.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/602.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/248.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/959.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/548.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/494.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/44.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/758.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~#include <stdio.h>
+         ^~~~~~~~~
+
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/177.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/412.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/523.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/479.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/190.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/752.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/953.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/306.c:1:#include <stdio.h>
+         ^~~~~~~~~10:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/242.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/608.c:1:10: fatal error: 'stdio.h' file not found fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/938.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/229.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 1 error generated.
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/739.c:1:9: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/663.c:1:10: fatal error: 'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/40.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/329.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~1 error generated.
+
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/206.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/173.c:#include <stdio.h>
+         ^~~~~~~~~1:10:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/527.c:1:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/342.c:1:10: fatal error: 'stdio.h' file not found
+10: fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/680.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/716.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/118.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/456.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/348.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/667.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/194.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/267.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/323.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/957.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/112.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/777.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/280.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/21.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/546.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/437.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/179.c:1:9:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/263.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/606.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/327.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/936.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/773.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/972.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/629.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/718.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/82.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/208.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/433.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/919.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/642.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/284.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/569.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/458.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/794.c:1:10: fatal error: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/502.c:1:9: fatal error: 'stdio.h' file not found
+'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/995.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/346.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/65.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/156.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/712.c: fatal error: 'stdio.h' file not found
+1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/648.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/779.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/913.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/269.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/452.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/88.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/439.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/623.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/416.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/978.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/369.c:1:10: fatal error: 'stdio.h' file not found
+1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+1 error#include <stdio.h>
+         ^~~~~~~~~
+ generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/756.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/508.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/302.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/563.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated1 error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/246.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/137.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/163.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/384.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/50.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/477.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/537.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/308.c: fatal error: 'stdio.h' file not found
+1:10: fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/108.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/490.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/737.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/677.c:1:10: fatal error: 'stdio.h' file not found
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/184.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/363.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/227.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/947.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/405.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/31.c:1:10:fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/311.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/102.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/255.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/556.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/1000.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/745.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/169.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/464.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/616.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/926.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/397.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/639.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/370.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/234.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/962.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error1 error generated.
+ generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/92.c:1:9:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/724.c: fatal error: 'stdio.h' file not found
+1:10: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/483.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/652.c:1:10: #include <stdio.h>fatal error: 'stdio.h' file not found
+
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated1 error generated.
+.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/909.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/760.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/270.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/579.c:1:fatal error: 'stdio.h' file not found
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/512.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/334.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/985.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/787.c:1:10:fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/146.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/297.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: #include <stdio.h>
+         ^~~~~~~~~
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/420.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/75.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/903.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/701.c: fatal error: 'stdio.h' file not found
+1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/658.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/211.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/594.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/355.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/1.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/441.c:1:10:#include <stdio.h>
+         ^~~~~~~~~ fatal error: 'stdio.h' file not found
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/705.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/98.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/968.c:1:9:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/215.c:1:10: fatal error fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/633.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/351.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/299.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/518.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/573.c/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/789.c:1:10: fatal error: 'stdio.h' file not found
+:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/445.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/14.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/127.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/764.c:1 fatal error: 'stdio.h' file not found
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/637.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/274.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+#include <stdio.h>
+         ^~~~~~~~~
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/330.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/590.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/907.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/424.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/5.c:1:9: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/783.c:1:10: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/577.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/293.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/10.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/393.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/460.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/123.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/148.c:1:9/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/487.c:1:10:: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/656.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/374.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/966.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/230.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/96.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/720.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+1 error generated.
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/401.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/981.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/516.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/399.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/315.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/142.c:1:9:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/71.c:1:10: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/251.c:fatal error: 'stdio.h' file not found
+1:10:#include <stdio.h>
+ fatal error: 'stdio.h' file not found
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/129.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/741.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>#include <stdio.h>
+         ^~~~~~~~~
+
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/539.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/715.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/341.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/35.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/106.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/289.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/552.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/922.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/799.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/679.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/455.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/774.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/949.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/320.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/612.c:1:10#include <stdio.h>
+         ^~~~~~~~~:
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/264.c:1/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/558.c:1:10: fatal error: 'stdio.h' file not found
+:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/167.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/434.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/793.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/54.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+11 error generated.
+ error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/283.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/533.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/180.c:1:9/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/383.c:1:10: fatal error: 'stdio.h' file not found
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/618.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/470.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/800.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/943.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/497.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/673.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/220.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/928.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/364.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/541.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/730.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/26.c:1:10: fatal error fatal error: 'stdio.h' file not found
+: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/411.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/115.c:1:10: #include <stdio.h>
+         ^~~~~~~~~
+fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/389.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/199.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/601.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/241.c:#include <stdio.h>
+         ^~~~~~~~~
+1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/305.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/931.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/520.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/751.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/174.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/415.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/245.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/47.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~1 error generated.
+
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/660.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/301.c:1: fatal error: 'stdio.h' file not found
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/950.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/755.c:1:10: fatal error: 'stdio.h' file not found
+1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/193.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/499.c:1:10: fatal error: 1 error generated.
+'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/474.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/914.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/387.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/583.c:1:10: fatal error: 'stdio.h' file not found
+1 error generated.
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/624.c:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/224.c1:1:10: fatal error: 'stdio.h' file not found
+:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/360.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/998.c:1#include <stdio.h>
+         ^~~~~~~~~
+:10: fatal error: 'stdio.h' file not found
+1 error generated#include <stdio.h>
+         ^~~~~~~~~
+.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/734.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/68.c:1:#include <stdio.h>
+         ^~~~~~~~~
+10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/130.c:1:10:/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/493.c:1:10: fatal error: 'stdio.h' file not found
+ fatal error: 'stdio.h' file not found#include <stdio.h>
+         ^~~~~~~~~
+
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/770.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/564.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/324.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/85.c:1:#include <stdio.h>
+10         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/260.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/975.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/589.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/797.c:1:9: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/287.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/645.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/430.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/151.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/711.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/62.c:1:10#include <stdio.h>
+         ^~~~~~~~~
+: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/345.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/505.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/201.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/992.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00/451.c:1:10: fatal error: 'stdio.h' file not found
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/641.c:1:10:#include <stdio.h>
+         ^~~~~~~~~
+ fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/81.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/971.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/155.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/66.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/996.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/501.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/620.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/587.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/910.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/134.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/560.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/28.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/524.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/170.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/43.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/954.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/197.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/664.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/49.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/545.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/22.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/111.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/935.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/605.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/651.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/8.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/91.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/961.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/76.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/145.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/986.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/511.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/630.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/2.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/597.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/124.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/17.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/570.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/38.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/534.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/53.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/160.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/944.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/187.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/674.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/59.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/555.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/101.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/32.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/925.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/615.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/551.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/105.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/36.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/189.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/611.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/921.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/530.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/57.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/164.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/670.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/940.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/183.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/6.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/904.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/593.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/634.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/988.c:1:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+#include <stdio.h>i
+                  ^
+                  //
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/988.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>i
+         ^~~~~~~~~
+1 warning and 1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/78.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/120.c:2:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/13.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/574.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/95.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/965.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/599.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/655.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/19.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/72.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/141.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/515.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50/982.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+Dumped files, saving intermediates.visiting dir: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/05.00
+DIR : 05.00
+TMP : /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes_embedding/feature_extractor/
+visiting dir: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/02.50
+DIR : 02.50
+TMP : /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes_embedding/feature_extractor/
+visiting dir: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/07.50
+DIR : 07.50
+TMP : /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes_embedding/feature_extractor/
+visiting dir: /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes/10.00
+DIR : 10.00
+TMP : /Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/Codes_embedding/feature_extractor/
