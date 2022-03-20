@@ -85,7 +85,7 @@ def main():
                 # fl.write(file)
                 # dat = fl.readlines()
                 # print(dat)
-                df = pd.read_csv('/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/csvs/Data_Marks.csv')
+                df = pd.read_csv('/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/csvs/a3_q1_marks.csv')
                 # var = file.split('/')[-1]
                 # print(var)
                 df1 = df.loc[df['FileName'] == file.split('/')[-1]]

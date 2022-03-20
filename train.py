@@ -1,7 +1,7 @@
 import create_vocab
 import data_to_tensors
-import model_implementation
-# import lstm_t as model_implementation
+# import model_implementation
+import lstm_try as model_implementation
 from train_class import TrainingModule
 
 import torch
@@ -30,13 +30,15 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_root = 'CODES_emb'
-    dataset_name = 'CODES_emb'
+    data_root = 'a3_q1_emb'
+    dataset_name = 'a3_q1_emb'
 
     dict_path = 'data/'+ data_root + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
 
-    # print(target2idx)
+    print('word', len(word2idx) )
+    # print('Path', len(path2idx) )
+    # print('target', len(target2idx) )
     # exit()
 
     path_for_train = 'data/'+ data_root + '/' + dataset_name + '.train.c2v'
@@ -108,7 +110,7 @@ def main():
         for i, j in zip(label, y_pred):
             d['Original names'].append(idx2target[i.item()])
             d['Predicted names'].append(idx2target[j.item()])
-            break
+            # break
 
     df = pd.DataFrame(data=d)
     display(df,)
