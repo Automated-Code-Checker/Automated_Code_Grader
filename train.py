@@ -13,11 +13,9 @@ from torch.utils.data import DataLoader
 import pandas as pd
 from IPython.display import display
 
-
+from sklearn.metrics import accuracy_score
 
 def main():
-    
-    bert = False
 
     N_EPOCHS = 40
     LR = 3e-3
@@ -31,6 +29,9 @@ def main():
     
     data_folder = 'Codes_embedding'
     dataset_name = 'Codes_embedding'
+
+    # data_folder = 'CODES_emb'
+    # dataset_name = 'CODES_emb'
 
     dict_path = 'data/'+ data_folder + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
@@ -55,35 +56,24 @@ def main():
 
     train_loader = DataLoader(train_dataset, batch_size=512, shuffle=True)
     val_loader = DataLoader(val_dataset, batch_size=512, shuffle=False)
-    test_loader = DataLoader(train_dataset, batch_size=512, shuffle=False)
+    test_loader = DataLoader(test_dataset, batch_size=512, shuffle=False)
 
-    # In case of bert
-    bert_params = dict()
-    bert_params['num_attention_heads'] = 1
-    bert_params['num_transformer_layers'] = 1
-    bert_params['intermediate_size'] = 32
 
-    if bert:
-        model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
-                                paths_vocab_size = len(path2idx), 
-                                labels_num = len(target2idx), bert=bert, bert_params=bert_params)
-    else:
-         model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
-                                 paths_vocab_size = len(path2idx), 
-                                 labels_num = len(target2idx))
+
+
+    model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
+                            paths_vocab_size = len(path2idx), 
+                            labels_num = len(target2idx))
     
 
     optimizer = torch.optim.Adam(model.parameters(), lr=LR, weight_decay=WD)
     criterion = nn.CrossEntropyLoss()
 
     train_class = TrainingModule(model, optimizer, criterion, train_loader, val_loader, test_loader, N_EPOCHS, idx2target)
-    list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1 = train_class.train(bert, dataset_name)
+    list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1,list_train_accuracy,list_val_accuracy = train_class.train(dataset_name)
 
-    if bert == True:
-        # state_dict = torch.load('best_model.pth')
-        state_dict = torch.load('./' + dataset_name + '_bert_model.pth')
-    else:
-        state_dict = torch.load( './' + dataset_name + '_article_model.pth')
+    
+    state_dict = torch.load( './' + dataset_name + '_article_model.pth')
 
     model.load_state_dict(state_dict)
 
@@ -102,12 +92,15 @@ def main():
         y_pred = torch.argmax(y_pred, dim = 1)
         
         for i, j in zip(label, y_pred):
+            
             d['Original names'].append(idx2target[i.item()])
             d['Predicted names'].append(idx2target[j.item()])
-            break
+            # break
 
     df = pd.DataFrame(data=d)
     display(df,)
+
+    print("Accuracy : ",accuracy_score(df['Original names'], df['Predicted names']))
 
 if __name__== "__main__":
   # batch_size = int(input('Input batch size: '))

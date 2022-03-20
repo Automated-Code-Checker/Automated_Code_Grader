@@ -69,8 +69,6 @@ def main():
     if dir_path is not None:
         dir_path = os.path.normpath(dir_path)
         marks = dir_path.split('/')[-1] 
-        # fl = open("hello.txt",'r')
-        # df = pd.read_csv('combined_data.csv')
         include_path = append_include(dir_path)
         add_dir_if_exists(include_dirs, include_path)
         f=sys.stdout
@@ -80,21 +78,9 @@ def main():
             add_dir_if_exists(inner_dirs, include_path)
             files = glob.glob(dir.rstrip(os.sep) + os.sep + "*.c")
             for file in files:
-                # dat = fl.read()
-                # fl.close()
-                # fl.write(file)
-                # dat = fl.readlines()
-                # print(dat)
                 df = pd.read_csv('/Users/unaissiddiqui/Desktop/Fyp/code2vec2/Data_Marks.csv')
-                # var = file.split('/')[-1]
-                # print(var)
                 df1 = df.loc[df['FileName'] == file.split('/')[-1]]
-                # print(df1)
-                # df1 = df.loc[df['FileName'] == 'number2.c']
                 marks = int(df1['Marks'])
-                # f.write(marks)
-                #yahanprint kra kr dekhlo k marks are k nai
-                # each try k ander bef marks - marks-embedding(3) marks in preprocess file in csv
                 try:
                     f.write(str(marks))         #marks in first line(?) 
                     parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
@@ -193,15 +179,6 @@ def root_level(top_nodes):
         sys.stderr.write("Leaf Node Types:\n\t"+str(functions[0].children[0].unique_leaves)+"\n")
     return functions
 
-# def root_level(top_node):
-#     functions = []
-#     if top_node.cursor.kind == CursorKind.TRANSLATION_UNIT:
-#         if ARGS.dump_tree: traverse_to_print(top_node)
-#         generate_and_print_paths(top_node)
-#     if ARGS.dump_nodes:
-#         sys.stderr.write("Internal Node Types:\n\t"+str(functions[0].children[0].unique_cursors)+"\n")
-#         sys.stderr.write("Leaf Node Types:\n\t"+str(functions[0].children[0].unique_leaves)+"\n")
-#     return functions
     
 
 def get_all_leaves(node, result):
@@ -257,8 +234,6 @@ def generate_and_print_paths(function, f=sys.stdout):
         sys.stderr.write("Skipping Function: "+ function.displayname + ", becuase leaf count of: "+str(len(leaves))+"\n")
         return
     
-    # Java does not have decls but we need to deal with them 
-    # in C, should we skip or tag them?
     if not function.IsFunctionDefinition():
         if ARGS.skip_decls:
             sys.stderr.write("Skipping Function: "+ function.displayname + ", becuase it is a decl." + "\n")
@@ -277,26 +252,6 @@ def generate_and_print_paths(function, f=sys.stdout):
             f.write(" " +",".join([s.value,generate_pathstring(uptree_cp, downtree_cp, not ARGS.hash_paths), e.value]))
     f.flush()
     # f.write("\n") 
-
-# def generate_and_print_paths(function, f=sys.stdout):
-#     decl_tag = "TranslationUnit"
-#     leaves = []
-#     get_all_leaves(function, leaves)
-#     if len(leaves) <= 1: return # Won't have any code paths
-#     # These lines are a departute from how code2vec parses trees
-#     # the behavior here can be modifed to use a filtering mechanism other
-#     # than total leaf nodes.
-#     for s in leaves:
-#         uptree = walk_to_root(s)
-#         for e in leaves:
-#             if e is s: continue
-#             downtree = walk_to_root(e)
-#             path, pivot = find_common_path(uptree, downtree)
-#             uptree_cp = map(lambda o: o.ToCodePathNode(), path[:pivot])
-#             downtree_cp = map(lambda o: o.ToCodePathNode(), path[pivot:])
-#             f.write(" " +",".join([s.value,generate_pathstring(uptree_cp, downtree_cp, not ARGS.hash_paths), e.value]))
-#     # f.write("\n")
-#     f.flush()
 
 
 # Create a pathstring from two node lists
