@@ -1,6 +1,7 @@
 import create_vocab
 import data_to_tensors
-import model_implementation
+# import model_implementation
+import lstm_try as model_implementation
 from train_class import TrainingModule
 
 import torch
@@ -29,25 +30,30 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_folder = 'Codes_embedding'
-    dataset_name = 'Codes_embedding'
+    data_root = 'a3_q1_emb'
+    dataset_name = 'a3_q1_emb'
 
-    dict_path = 'data/'+ data_folder + '/' + dataset_name + '.dict.c2v'
+    dict_path = 'data/'+ data_root + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
 
-    path_for_train = 'data/'+ data_folder + '/' + dataset_name + '.train.c2v'
+    print('word', len(word2idx) )
+    # print('Path', len(path2idx) )
+    # print('target', len(target2idx) )
+    # exit()
+
+    path_for_train = 'data/'+ data_root + '/' + dataset_name + '.train.c2v'
     train_dataset = data_to_tensors.TextDataset(path_for_train, 
                                                         word2idx, 
                                                         path2idx, 
                                                         target2idx)
 
-    path_for_val = 'data/'+ data_folder + '/' + dataset_name + '.val.c2v'
+    path_for_val = 'data/'+ data_root + '/' + dataset_name + '.val.c2v'
     val_dataset = data_to_tensors.TextDataset(path_for_val, 
                                                         word2idx, 
                                                         path2idx, 
                                                         target2idx)
 
-    path_for_test = 'data/'+ data_folder + '/' + dataset_name + '.test.c2v'
+    path_for_test = 'data/'+ data_root + '/' + dataset_name + '.test.c2v'
     test_dataset = data_to_tensors.TextDataset(path_for_test, 
                                                         word2idx, 
                                                         path2idx, 
@@ -55,7 +61,7 @@ def main():
 
     train_loader = DataLoader(train_dataset, batch_size=512, shuffle=True)
     val_loader = DataLoader(val_dataset, batch_size=512, shuffle=False)
-    test_loader = DataLoader(train_dataset, batch_size=512, shuffle=False)
+    test_loader = DataLoader(test_dataset, batch_size=512, shuffle=False)
 
     # In case of bert
     bert_params = dict()
@@ -104,7 +110,7 @@ def main():
         for i, j in zip(label, y_pred):
             d['Original names'].append(idx2target[i.item()])
             d['Predicted names'].append(idx2target[j.item()])
-            break
+            # break
 
     df = pd.DataFrame(data=d)
     display(df,)

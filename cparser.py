@@ -31,7 +31,7 @@ EXP = re.compile(r"(?<=[a-z])(?=[A-Z])|_|[0-9]|(?<=[A-Z])(?=[A-Z][a-z])|\\s+")
 DUP = re.compile(r"\|\|+")
 
 def main():
-    # global marks
+    global marks
     parser = argparse.ArgumentParser("Parse c code to path objects")
     parser.add_argument("--clang-path", dest="clang_path",
                       help="Path to clang shared library", metavar="CLANG", type=str, required=True)
@@ -85,7 +85,7 @@ def main():
                 # fl.write(file)
                 # dat = fl.readlines()
                 # print(dat)
-                df = pd.read_csv('/Users/unaissiddiqui/Desktop/Fyp/code2vec2/Data_Marks.csv')
+                df = pd.read_csv('/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/csvs/a3_q1_marks.csv')
                 # var = file.split('/')[-1]
                 # print(var)
                 df1 = df.loc[df['FileName'] == file.split('/')[-1]]

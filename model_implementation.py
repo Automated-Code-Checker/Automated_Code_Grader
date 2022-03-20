@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from transformers import BertModel, BertConfig
+# from transformers import BertModel, BertConfig
 
 
 class code2vec_model(nn.Module):
@@ -80,7 +80,10 @@ class code2vec_model(nn.Module):
     context_vec = torch.cat((start_embedding, path_embedding, end_embedding), dim=2)
     
     ## 3. Attention mechanism
-    mask = (starts > 1).float() ## if 1 then it is pad and we don't pay attention to it
+    # print( 'Starts: ',starts )
+    # print( 'Ends: ',ends )
+
+    mask = (starts > 0).float() ## if 1 then it is pad and we don't pay attention to it
     ## 4. DropOut + Fully-connected layer into 'Combinied context vectors'
     comb_context_vec = torch.tanh(self.linear(context_vec))
     
@@ -98,6 +101,8 @@ class code2vec_model(nn.Module):
       lin_mul = torch.matmul(comb_context_vec, self.a.T)
       attention_weights = F.softmax(torch.mul(lin_mul, mask.view(lin_mul.size())) + (1 - mask.view(lin_mul.size())) * self.neg_INF, dim = 1)
       code_vector = torch.sum(torch.mul(comb_context_vec, attention_weights), dim = 1)
+      # code_vector = torch.sum(torch.mul(comb_context_vec, lin_mul), dim = 1)
+    
     ## 5. Prediction
     output = self.output_linear(code_vector)
     
