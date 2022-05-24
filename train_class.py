@@ -6,7 +6,7 @@ from time import time
 
 class TrainingModule:
     def __init__(self, model, optimizer, criterion, train_loader, val_loader, test_loader,
-        epochs, idx2target_vocab, scheduler = None, checkpoint = True, early_stop = False):
+        epochs, idx2target_vocab, scheduler = None, checkpoint = True, early_stop = True):
         self.model = model
         self.optimizer = optimizer
         self.criterion = criterion
@@ -38,7 +38,7 @@ class TrainingModule:
         self.criterion = self.criterion.to(self.DEVICE)
 
         self.dataset = dataset
-        
+        itr=0
         for epoch in range(self.epochs):
           
             start_time = time()
@@ -65,10 +65,15 @@ class TrainingModule:
             if val_f1 < best_val_f1:
                 best_val_f1 = val_f1
                 
-                torch.save(self.model.state_dict(), './' + self.dataset + '_article_model.pth')
+                torch.save(self.model.state_dict(), './Models/' + self.dataset + '_model.pth')
             
             if self.scheduler is not None:
                 self.scheduler.step(train_loss)
+
+            if self.early_stop:
+                if epoch > 10:
+                    if list_val_accuracy[-1] == list_val_accuracy[-2] and list_val_accuracy[-2] == list_val_accuracy[-3]:
+                        break
 
             print('Epoch {}: train loss - {}, validation loss - {}'.format(epoch+1, round(train_loss,5), round(val_loss,5)))
             print('\t Validation: precision - {}, recall - {}, f1_score - {}'.format(round(val_precision,5), round(val_recall,5), round(val_f1,5)))
@@ -77,7 +82,7 @@ class TrainingModule:
             print ('Elapsed time: %.3f' % (time() - start_time))
             print('----------------------------------------------------------------------')
             
-        return list_train_loss , list_val_loss, list_train_precision, list_val_precision, list_train_recall, list_val_recall, list_train_f1, list_val_f1, list_train_accuracy,list_val_accuracy
+        return list_train_loss , list_val_loss, list_train_precision, list_val_precision, list_train_recall, list_val_recall, list_train_f1, list_val_f1,list_train_accuracy,list_val_accuracy
 
 
     def run_epoch(self, mode, dataloader):
@@ -120,5 +125,6 @@ class TrainingModule:
         precision = epoch_tp / (epoch_tp + epoch_fp + epsilon)
         recall = epoch_tp / (epoch_tp + epoch_fn + epsilon)
         f1 = 2 * precision * recall / (precision + recall + epsilon)
+
 
         return epoch_loss/num_batches, precision, recall, f1, accuracy
