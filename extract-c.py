@@ -13,6 +13,7 @@
 # DM19-0540
 #!/usr/bin/python
 
+from ast import arg
 import itertools
 import multiprocessing, threading
 import os
@@ -27,6 +28,8 @@ from pathlib import Path
 from argparse import ArgumentParser
 from subprocess import Popen, PIPE, STDOUT, call
 from unicodedata import name
+
+from yaml import parse
 
 
 def get_immediate_subdirectories(a_dir):
@@ -45,7 +48,7 @@ def background_function(file, stdout):
 
 # Generate a basic cmd array
 def generate_cmd(args):
-    command = ['python3', 'cparser.py', "--clang-path", args.clang_path, "--max-leaves", args.max_leaves]
+    command = ['python3', 'cparser.py', "--clang-path", args.clang_path, "--max-leaves", args.max_leaves, "--train-flag", args.train_flag]
     if args.include_path is not None and len(args.include_path) > 0:
         command.extend(["--include-path", args.include_path])
     if args.decls is not None:
@@ -112,13 +115,14 @@ if __name__ == '__main__':
     parser.add_argument("-clang-path", "--clang-path", dest="clang_path", required=True)
     parser.add_argument("--include-path", dest="include_path", default=None)
     parser.add_argument("-maxleaves", "--max-leaves", dest="max_leaves", required=False, default=1000)
+    parser.add_argument("-trainf", "--train-flag", dest="train_flag", required=True)
     parser.add_argument("-threads", "--num_threads", dest="num_threads", required=False, default=8)
     parser.add_argument("-dir", "--dir", dest="dir", required=False)
     parser.add_argument("-outdir", "--outdir", dest="outdir", required=True)
     parser.add_argument("-file", "--file", dest="file", required=False)
     parser.add_argument("-skipdecls", "--skip-decls", dest="decls", required=False)
     args = parser.parse_args()
-    
+
     if args.file is not None:
         command = generate_cmd(args)
         command.extend(["--file-path", args.file])

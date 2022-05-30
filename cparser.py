@@ -12,6 +12,7 @@
 # 2. LLVM / CLANG (https://github.com/llvm-mirror/clang/blob/master/LICENSE.TXT) Copyright 2019 LLVM.
 # DM19-0540
 # import clang
+from ast import arg
 from clang.cindex import Config, Index, CursorKind, TypeKind, LinkageKind, TranslationUnit, StorageClass
 from astnode import ASTNode
 import argparse
@@ -44,6 +45,7 @@ def main():
     parser.add_argument("--max-leaves", dest="max_leaves",
                       help="(int) Do not process functions with more than L leaves",
                       metavar="L", type=int, default=None)
+    parser.add_argument("--train-flag", dest="train_flag",required=True)
     parser.add_argument("--no-hash-paths", dest="hash_paths",
                       help="(bool) If defined will not hash code paths",
                       metavar="HASH", type=bool, default=False)
@@ -60,7 +62,7 @@ def main():
     set_args(parser.parse_args())
     if ARGS.dir_path is not None: os.chdir(ARGS.dir_path)
     
-    configure_clang(ARGS.clang_path)
+    # configure_clang(ARGS.clang_path)
     index = Index.create()
     
     include_dirs = setup_includes()
@@ -77,17 +79,28 @@ def main():
             include_path = append_include(dir)
             add_dir_if_exists(inner_dirs, include_path)
             files = glob.glob(dir.rstrip(os.sep) + os.sep + "*.c")
-            for file in files:
-                df = pd.read_csv('/Users/unaissiddiqui/Desktop/Fyp/code2vec2/Data_Marks.csv')
-                df1 = df.loc[df['FileName'] == file.split('/')[-1]]
-                marks = int(df1['Marks'])
-                try:
-                    f.write(str(marks))         #marks in first line(?) 
-                    parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
-                    f.write("\n")    # uncomment when working on personal model
-                except:
-                    sys.stderr.write("Exception parsing file:"+file+"\n")
-                    traceback.print_tb(sys.exc_info()[2])
+            if ARGS.train_flag == '0' :
+                for file in files:
+                    try:
+                        f.write(str(file.split('/')[-1]))
+                        parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
+                        f.write("\n")    # uncomment when working on personal model
+                    except:
+                        sys.stderr.write("Exception parsing file:"+file+"\n")
+                        traceback.print_tb(sys.exc_info()[2])
+            elif ARGS.train_flag == '1' :
+                # print(ARGS.marks_file)
+                for file in files:
+                    df = pd.read_csv("/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/Marks_csv/Data_Marks.csv")
+                    df1 = df.loc[df['FileName'] == file.split('/')[-1]]
+                    marks = df1['Marks'].item()
+                    try:
+                        f.write(str(marks))         #marks in first line(?) 
+                        parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
+                        f.write("\n")    # uncomment when working on personal model
+                    except:
+                        sys.stderr.write("Exception parsing file:"+file+"\n")
+                        traceback.print_tb(sys.exc_info()[2])
     elif ARGS.file_path is not None:
         parse_single(os.path.normpath(ARGS.file_path), include_dirs, index)
     else: sys.stderr.write("Invoked without dir_path or file_path")

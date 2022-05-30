@@ -66,9 +66,7 @@ PYTHON=python3
 DATA_ROOT=${CODE2VEC_LOC}/data/${DATASET_NAME}
 RAW_DATA_FILE=${DATA_ROOT}/${DATASET_NAME}.raw.txt
 SORTED_DATA_FILE=${DATA_ROOT}/${DATASET_NAME}.sorted.raw.txt
-TRAIN_DATA_FILE=${DATA_ROOT}/${DATASET_NAME}.train.raw.txt
-VAL_DATA_FILE=${DATA_ROOT}/${DATASET_NAME}.val.raw.txt
-TEST_DATA_FILE=${DATA_ROOT}/${DATASET_NAME}.test.raw.txt
+DATA_FILE=${DATA_ROOT}/${DATASET_NAME}.data.raw.txt
 
 # Ensure previous runs are cleared out...
 rm -rf $DATA_ROOT
@@ -84,16 +82,13 @@ n=$(wc -l < ${SORTED_DATA_FILE})
 [[ ! "$n" -gt "0" ]] && echo "Extracted no lines. (missing source files?)" && exit 1
 
 n=$(echo "x=${n} * ${DOWNSAMPLE}; scale = 0; x / 1" | bc -l)
-train_n=$(echo "x=${n} * .85; scale = 0; x / 1" | bc -l)
-test_n=$(echo "x=(${n} - ${train_n}) / 2; scale = 0; x / 1" | bc -l)
-# val_n is the rest
-train=$train_n
-test=$test_n
-val="$(( $n - ( $train + $test )))"
 
-echo "N: $n, train_n ${train}, test_n ${test}, val_n ${val}"
+
+echo "N: $n"
+# n=63
+# echo "N: $n"
 echo "Extracting samples to raw files."
-cat ${SORTED_DATA_FILE} | { head -n ${train} > ${TRAIN_DATA_FILE}; head -n ${test} > ${TEST_DATA_FILE}; head -n ${val} > ${VAL_DATA_FILE}; }
+cat ${SORTED_DATA_FILE} | { head -n ${n} > ${DATA_FILE};}
 echo "Done extracting samples to raw files."
 
 TARGET_HISTOGRAM_FILE=${DATA_ROOT}/${DATASET_NAME}.histo.tgt.c2v
@@ -101,20 +96,19 @@ ORIGIN_HISTOGRAM_FILE=${DATA_ROOT}/${DATASET_NAME}.histo.ori.c2v
 PATH_HISTOGRAM_FILE=${DATA_ROOT}/${DATASET_NAME}.histo.path.c2v
 
 echo "Creating histograms from the training data"
-cat ${TRAIN_DATA_FILE} |  tee \
+cat ${DATA_FILE} |  tee \
 >(cut -d' ' -f1 | awk '{n[$0]++} END {for (i in n) print i,n[i]}' > ${TARGET_HISTOGRAM_FILE}) \
 | cut -d' ' -f2- | tr ' ' '\n' | tee \
 >(cut -d',' -f1,3 | tr ',' '\n' | awk '{n[$0]++} END {for (i in n) print i,n[i]}' > ${ORIGIN_HISTOGRAM_FILE}) \
 | cut -d',' -f2 | sort -S ${MEM_PERCENT}% --parallel ${NUM_PROCESSORS} | uniq -c | awk '{ t = $1; $1 = $2; $2 = t; print; }' > ${PATH_HISTOGRAM_FILE}
 echo "Done creating histograms...sending to code2vec for preprocessing"
 
-${PYTHON} ${CODE2VEC_LOC}/preprocess.py --train_data ${TRAIN_DATA_FILE} --test_data ${TEST_DATA_FILE} --val_data ${VAL_DATA_FILE} \
+${PYTHON} ${CODE2VEC_LOC}/preprocess_test.py --data ${DATA_FILE} \
   --max_contexts ${MAX_CONTEXTS} --word_vocab_size ${WORD_VOCAB_SIZE} --path_vocab_size ${PATH_VOCAB_SIZE} \
   --target_vocab_size ${TARGET_VOCAB_SIZE} --word_histogram ${ORIGIN_HISTOGRAM_FILE} \
   --path_histogram ${PATH_HISTOGRAM_FILE} --target_histogram ${TARGET_HISTOGRAM_FILE} --output_name ${DATA_ROOT}/${DATASET_NAME}
     
 # This line can be uncommented if disk usage is of primary concern.  This will delete intermediary files which are 
 # redundant and sizeable.
-rm ${TRAIN_DATA_FILE} ${VAL_DATA_FILE} ${TEST_DATA_FILE} ${TARGET_HISTOGRAM_FILE} ${ORIGIN_HISTOGRAM_FILE} \
+rm ${DATA_FILE} ${TARGET_HISTOGRAM_FILE} ${ORIGIN_HISTOGRAM_FILE} \
  ${PATH_HISTOGRAM_FILE} ${RAW_DATA_FILE} ${SORTED_DATA_FILE}
-
