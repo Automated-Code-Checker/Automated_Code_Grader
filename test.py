@@ -52,7 +52,7 @@ def main():
 
     DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-    model = model.to(DEVICE)
+    d = {'Predicted names': []}
 
     d = {'File names': [], 'Predicted Marks': []}
     

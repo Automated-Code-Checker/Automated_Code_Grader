@@ -1,0 +1,2 @@
+Given a string, replace the characters on all prime number indices with 3 as the last digit, with ‘$’.
+Given 2 integer arrays 'X' and 'Y' of size N, create a new boolean array 'arr' of size N. Iterate the array 'X' such that its values indicate which index of 'Y' to consider. arr[i] is True if Y[ X[i] ] is a multiple of 4, and False otherwise.

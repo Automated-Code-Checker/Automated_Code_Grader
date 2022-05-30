@@ -89,7 +89,6 @@ def main():
     train_class = TrainingModule(model, optimizer, criterion, train_loader, val_loader, test_loader, N_EPOCHS, idx2target)
     list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1,list_train_accuracy,list_val_accuracy = train_class.train(dataset_name)
 
-
     if bert == True:
         # state_dict = torch.load('best_model.pth')
         state_dict = torch.load('./Models/' + dataset_name + '_model.pth')
@@ -106,24 +105,6 @@ def main():
 
     model = model.to(DEVICE)
 
-    d = {'Original names': [], 'Predicted names': []}
-
-    for start, path, end, label in iter(test_loader):
-        # get from model
-        code, y_pred = model(start.to(DEVICE), path.to(DEVICE), end.to(DEVICE))
-        # get probability
-        y_pred = F.softmax(y_pred)
-        # get best name index
-        y_pred = torch.argmax(y_pred, dim = 1)
-        
-        for i, j in zip(label, y_pred):
-            d['Original names'].append(idx2target[i.item()])
-            d['Predicted names'].append(idx2target[j.item()])
-            # break
-
-    df = pd.DataFrame(data=d)
-    with pd.option_context('display.max_rows', 66, 'display.max_columns', 66):  # more options can be specified also
-        print(df)
 
 if __name__== "__main__":
   # batch_size = int(input('Input batch size: '))
