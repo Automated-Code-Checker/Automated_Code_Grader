@@ -54,7 +54,8 @@ DOWNSAMPLE=1
 #   The default values are reasonable for a Tesla K80 GPU 
 #   and newer (12 GB of board memory).
 
-DATASET_NAME=Codes_embedding
+# DATASET_NAME=unique_ids2_emb
+DATASET_NAME=a3_q1_emb
 MAX_CONTEXTS=200
 WORD_VOCAB_SIZE=1301136
 PATH_VOCAB_SIZE=911417

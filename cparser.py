@@ -32,7 +32,7 @@ EXP = re.compile(r"(?<=[a-z])(?=[A-Z])|_|[0-9]|(?<=[A-Z])(?=[A-Z][a-z])|\\s+")
 DUP = re.compile(r"\|\|+")
 
 def main():
-    # global marks
+    global marks
     parser = argparse.ArgumentParser("Parse c code to path objects")
     parser.add_argument("--clang-path", dest="clang_path",
                       help="Path to clang shared library", metavar="CLANG", type=str, required=True)

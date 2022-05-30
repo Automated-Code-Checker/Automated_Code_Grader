@@ -3,6 +3,7 @@ from argparse import ArgumentParser
 import common
 import pickle
 
+import pandas as pd
 '''
 This script preprocesses the data from MethodPaths. It truncates methods with too many contexts,
 and pads methods with less paths with spaces.
@@ -27,9 +28,23 @@ def process_file(file_path, data_file_role, dataset_name, word_to_count, path_to
     empty = 0
     max_unfiltered = 0
     output_path = '{}.{}.c2v'.format(dataset_name, data_file_role)
+
+
+    # get all marksVScode_name from csv
+    # file_marks = pd.read_csv('csvs/combined_data.csv')
+
     with open(output_path, 'w') as outfile:
         with open(file_path, 'r') as file:
             for line in file:
+                # file_name = file_path.rstrip('\n').split('/')[-1:]
+                # this_marks = file_marks.loc[ file_marks['FileName'].str.contains( file_name)]
+                # print( this_marks )
+                # parts.insert(0, this_marks)
+                
+                # parts.append( line.rstrip('\n').split(' ') )
+                # print( parts[:5] )
+                # exit()
+                
                 parts = line.rstrip('\n').split(' ')
                 # print('PRTSS : ' , parts)
                 target_name = parts[0]  #alishbah wali marks-func_name
