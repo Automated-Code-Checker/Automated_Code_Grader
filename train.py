@@ -1,26 +1,26 @@
 import create_vocab
 import data_to_tensors
-# import model_implementation
-import lstm_try as model_implementation
+import model_implementation
+import json 
+# import lstm_try as model_implementation 
 from train_class import TrainingModule
-
+import sys
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import random 
-
+import csv
 from torch.utils.data import DataLoader
-
+import pickle
 import pandas as pd
 from IPython.display import display
-
 
 
 def main():
     
     bert = False
 
-    N_EPOCHS = 40
+    N_EPOCHS = 100
     LR = 3e-3
     WD = 0.8e-5
 
@@ -30,30 +30,25 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_root = 'a3_q1_emb'
-    dataset_name = 'a3_q1_emb'
+    data_root = 'Codes_embeddings'
+    dataset_name = sys.argv[1]
 
-    dict_path = 'data/'+ data_root + '/' + dataset_name + '.dict.c2v'
+    dict_path = 'data/'+ data_root + '/' + data_root + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
 
-    print('word', len(word2idx) )
-    # print('Path', len(path2idx) )
-    # print('target', len(target2idx) )
-    # exit()
-
-    path_for_train = 'data/'+ data_root + '/' + dataset_name + '.train.c2v'
+    path_for_train = 'data/'+ data_root + '/' + data_root + '.train.c2v'
     train_dataset = data_to_tensors.TextDataset(path_for_train, 
                                                         word2idx, 
                                                         path2idx, 
                                                         target2idx)
 
-    path_for_val = 'data/'+ data_root + '/' + dataset_name + '.val.c2v'
+    path_for_val = 'data/'+ data_root + '/' + data_root + '.val.c2v'
     val_dataset = data_to_tensors.TextDataset(path_for_val, 
                                                         word2idx, 
                                                         path2idx, 
                                                         target2idx)
 
-    path_for_test = 'data/'+ data_root + '/' + dataset_name + '.test.c2v'
+    path_for_test = 'data/'+ data_root + '/' + data_root + '.test.c2v'
     test_dataset = data_to_tensors.TextDataset(path_for_test, 
                                                         word2idx, 
                                                         path2idx, 
@@ -70,50 +65,46 @@ def main():
     bert_params['intermediate_size'] = 32
 
     if bert:
-        model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
+        model = model_implementation.path_attention_model(values_vocab_size = len(word2idx), 
                                 paths_vocab_size = len(path2idx), 
                                 labels_num = len(target2idx), bert=bert, bert_params=bert_params)
     else:
-         model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
-                                 paths_vocab_size = len(path2idx), 
+         model = model_implementation.path_attention_model(values_vocab_size = len(word2idx),
+                                 paths_vocab_size = len(path2idx),
                                  labels_num = len(target2idx))
     
+    values = []
+    values.append(dataset_name)
+    values.append(len(word2idx))
+    values.append(len(path2idx))
+    values.append(len(target2idx))
+    f = open('/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/Values.csv', 'a')
+    writer = csv.writer(f)
+    writer.writerow(values)
+    f.close()
 
     optimizer = torch.optim.Adam(model.parameters(), lr=LR, weight_decay=WD)
     criterion = nn.CrossEntropyLoss()
 
     train_class = TrainingModule(model, optimizer, criterion, train_loader, val_loader, test_loader, N_EPOCHS, idx2target)
-    list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1 = train_class.train(bert, dataset_name)
+    list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1,list_train_accuracy,list_val_accuracy = train_class.train(dataset_name)
 
     if bert == True:
         # state_dict = torch.load('best_model.pth')
-        state_dict = torch.load('./' + dataset_name + '_bert_model.pth')
+        state_dict = torch.load('./Models/' + dataset_name + '_model.pth')
     else:
-        state_dict = torch.load( './' + dataset_name + '_article_model.pth')
+        kwargs, state = torch.load('./Models/' + dataset_name + '_model.pth')
+        model = model_implementation.code2vec_model(**kwargs)
+        model.load_state_dict(state)
 
-    model.load_state_dict(state_dict)
+    out_file = open("/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/jsons/"+dataset_name+".json", "w") 
+    json.dump(idx2target, out_file, indent = 4) 
+    out_file.close()  
 
     DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     model = model.to(DEVICE)
 
-    d = {'Original names': [], 'Predicted names': []}
-
-    for start, path, end, label in iter(test_loader):
-        # get from model
-        code, y_pred = model(start.to(DEVICE), path.to(DEVICE), end.to(DEVICE))
-        # get probability
-        y_pred = F.softmax(y_pred)
-        # get best name index
-        y_pred = torch.argmax(y_pred, dim = 1)
-        
-        for i, j in zip(label, y_pred):
-            d['Original names'].append(idx2target[i.item()])
-            d['Predicted names'].append(idx2target[j.item()])
-            # break
-
-    df = pd.DataFrame(data=d)
-    display(df,)
 
 if __name__== "__main__":
   # batch_size = int(input('Input batch size: '))

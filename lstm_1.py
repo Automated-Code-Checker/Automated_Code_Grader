@@ -1,4 +1,4 @@
-from matplotlib.style import context
+# from matplotlib.style import context
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -15,7 +15,7 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence, pad_se
 import pandas as pd
 from IPython.display import display
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import pandas as pd
 
 import torch.optim as optim
@@ -63,6 +63,8 @@ test_loader = DataLoader(test_dataset, shuffle=False)
 ################################################################
 
 def train_model(model, epochs=10, lr=0.001):
+    best_val = 0.0
+    itr = 0
     parameters = filter(lambda p: p.requires_grad, model.parameters())
     optimizer = torch.optim.Adam(parameters, lr=lr)
     for i in range(epochs):
@@ -79,15 +81,24 @@ def train_model(model, epochs=10, lr=0.001):
             # print(y_pred.data, '------------------------------------')
             # print(targets.shape, '------------------------------------')
             # print(targets.data, '------------------------------------')
-            # optimizer.zero_grad()
+            optimizer.zero_grad()
             loss = F.cross_entropy(y_pred, targets)
             loss.backward()
             optimizer.step()
             sum_loss += loss.item()*targets.shape[0]
             total += targets.shape[0]
         val_loss, val_acc, val_rmse = validation_metrics(model, val_loader)
+        if val_acc > best_val:
+            best_val = val_acc
+            itr = 0
+        elif val_acc == best_val:
+            itr =itr+1
+
         # if i % 5 == 1:
         print("train loss %.3f, val loss %.3f, val accuracy %.3f, and val rmse %.3f" % (sum_loss/total, val_loss, val_acc, val_rmse))
+        
+        if itr == 3:
+            break
 
 def validation_metrics (model, val_loader):
     model.eval()
@@ -150,4 +161,4 @@ class LSTM_fixed_len(torch.nn.Module) :
 
 
 model_fixed =  LSTM_fixed_len(vocab_size, 128, 128)
-train_model(model_fixed, epochs=10, lr=0.01)
+train_model(model_fixed, epochs=30, lr=0.01)

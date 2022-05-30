@@ -4,7 +4,7 @@ import torch.nn.functional as F
 # from transformers import BertModel, BertConfig
 
 
-class code2vec_model(nn.Module):
+class path_attention_model(nn.Module):
   """
   self.values_vocab_size - set of values of AST terminals that were observed during training
   self.paths_vocab_size - set of AST paths
@@ -23,6 +23,7 @@ class code2vec_model(nn.Module):
                bert_params = None):
     super().__init__()
 
+    self.kwargs = {'values_vocab_size':values_vocab_size,'paths_vocab_size':paths_vocab_size,'labels_num':labels_num}
     self.values_vocab_size = values_vocab_size
     self.paths_vocab_size = paths_vocab_size
     self.val_embedding_dim = val_embedding_dim
@@ -31,22 +32,25 @@ class code2vec_model(nn.Module):
     self.embedding_dim = embedding_dim
     self.labels_num = labels_num
     self.bert = bert
+  
     
     ## 1. Embeddings
     self.values_embedding = nn.Embedding(self.values_vocab_size, self.val_embedding_dim)
+    # self.values_embedding = nn.Embedding(self.values_vocab_size, 128)
+
     self.paths_embedding = nn.Embedding(self.paths_vocab_size, self.path_embedding_dim)
 
     ## 2. DropOut + tanh(Fully-connected layer) for combined context vectors
     self.DropOut = nn.Dropout(self.dropout_rate)
-    # print("path_embedding_dim : ", type(self.path_embedding_dim))
-    # print("val_embedding_dim : ", type(self.val_embedding_dim))
+
     self.linear = nn.Linear(self.path_embedding_dim + 2 * self.val_embedding_dim, self.embedding_dim, bias = False)
+    # self.linear = nn.Linear(self.path_embedding_dim + 2 * 128, self.embedding_dim, bias = False)
 
 
     ## 3. Bert or attention vector a
     if bert and bert_params != None:
-      num_attention_heads = bert_params['num_attention_heads']
-      num_transformer_layers = bert_params['num_transformer_layers']
+      num_attention_heads = bert_params['num_attention_heads'] #Number of learning Params
+      num_transformer_layers = bert_params['num_transformer_layers'] 
       intermediate_size = bert_params['intermediate_size']
       self.scale = torch.nn.Parameter(torch.sqrt(torch.tensor(self.embedding_dim, dtype=torch.float32)), requires_grad=False)
       max_len = 512
@@ -64,14 +68,18 @@ class code2vec_model(nn.Module):
 
     self.neg_INF = - 2 * 10**10
 
+
   def forward(self, starts, paths, ends):
+
     """
     input for starts,paths,ends - [[],[],[]...[]] - N_paths * BATCH_SIZE
     We form the indexed vocab of left_nodes, paths, right_nodes
     starts, paths, ends - lists of INDEXES of left_nodes, paths, right_nodes
     """
+
     
     ## 1. Embeddings
+
     start_embedding = self.values_embedding(starts)
     path_embedding = self.paths_embedding(paths)
     end_embedding = self.values_embedding(ends)
@@ -107,3 +115,6 @@ class code2vec_model(nn.Module):
     output = self.output_linear(code_vector)
     
     return code_vector, output
+
+  def predict(self,x):
+    print('this is x', x)

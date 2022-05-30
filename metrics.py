@@ -10,7 +10,7 @@ def precision_recall_f1(pred, labels, idx2target_vocab):
     pred_names = [idx2target_vocab[i.item()] for i in pred_idxs]
     original_names = [idx2target_vocab[i.item()] for i in label_idxs]
 
-    tp, fp, fn = 0, 0, 0
+    tp, fp, fn, tn = 0, 0, 0, 0
 
     for pr_name, orig_name in zip(pred_names, original_names):
 
@@ -26,10 +26,11 @@ def precision_recall_f1(pred, labels, idx2target_vocab):
             if not subtoken in pr_subtokens:
                 fn += 1
 
+    tn =(tp + fp + fn) - len(pred_names) 
     epsilon = 1e-7
 
     '''precision = tp / (tp + fp + epsilon)
     recall = tp / (tp + fn + epsilon)
     f1 = 2 * precision * recall / (precision + recall + epsilon)'''
 
-    return tp, fp, fn
+    return tp, fp, fn,tn

@@ -22,17 +22,11 @@
 # External dependencies
 # CLANG_PATH - should be set to the location of lib clang
 CLANG_PATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libclang.dylib
-echo "Path1"
-echo "$CLANG_PATH"
 # CODE2VEC_LOC - should be the location of base codevec
-CODE2VEC_LOC=/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline
-echo "Path2"
-echo "$CODE2VEC_LOC"
+CODE2VEC_LOC=/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader
 # SOURCE_DIR - top level folder for C source files
-# SOURCE_DIR=/Users/unaissiddiqui/Desktop/Fyp/code2vec2/data/unique_ids2
-SOURCE_DIR=/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/data/a3_q1
-echo "Path3"
-echo "$SOURCE_DIR"
+SOURCE_DIR=/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes
+
 
 
 
