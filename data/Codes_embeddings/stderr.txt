@@ -1,0 +1,62 @@
+TMPDL : /Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes_embeddings/feature_extractor/
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K201889.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213348.c:2:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213223.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213306.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h>
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K180149.c:1:10: fatal error: 'stdio.h' file not found
+#include <stdio.h> 
+         ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213156.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213364.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213241.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213155.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213274.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K201903.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213335.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213292.c:1:9: fatal error: 'iostream' file not found
+#include<iostream>
+        ^~~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K201715.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/data/Codes/K213253.c:1:9: fatal error: 'stdio.h' file not found
+#include<stdio.h>
+        ^~~~~~~~~
+1 error generated.
+Dumped files, saving intermediates.

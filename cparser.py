@@ -92,7 +92,7 @@ def main():
                 # print(ARGS.marks_file)
                 for file in files:
                     df = pd.read_csv("/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/Marks_csv/Data_Marks.csv")
-                    df1 = df.loc[df['FileName'] == file.split('/')[-1]]
+                    df1 = df.loc[df['FileName']+".c" == file.split('/')[-1]]
                     marks = df1['Marks'].item()
                     try:
                         f.write(str(marks))         #marks in first line(?) 

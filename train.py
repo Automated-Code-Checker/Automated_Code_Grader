@@ -94,17 +94,18 @@ def main():
         state_dict = torch.load('./Models/' + dataset_name + '_model.pth')
     else:
         kwargs, state = torch.load('./Models/' + dataset_name + '_model.pth')
-        model = model_implementation.code2vec_model(**kwargs)
+        model = model_implementation.path_attention_model(**kwargs)
         model.load_state_dict(state)
 
     out_file = open("/Users/unaissiddiqui/Desktop/Fyp/Automated_Code_Grader/jsons/"+dataset_name+".json", "w") 
     json.dump(idx2target, out_file, indent = 4) 
-    out_file.close()  
+    out_file.close()
 
     DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     model = model.to(DEVICE)
 
+    print("SAB KHATAM")
 
 if __name__== "__main__":
   # batch_size = int(input('Input batch size: '))
