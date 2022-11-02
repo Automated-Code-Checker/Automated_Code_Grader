@@ -79,24 +79,37 @@ def main():
             include_path = append_include(dir)
             add_dir_if_exists(inner_dirs, include_path)
             files = glob.glob(dir.rstrip(os.sep) + os.sep + "*.c")
+            # for i in files:
+            #     print(i, '^^^^^^^^^')
+            # exit()
+            # files.remove('.DS_Store')
             for file in files:
                 # dat = fl.read()
                 # fl.close()
                 # fl.write(file)
                 # dat = fl.readlines()
                 # print(dat)
-                df = pd.read_csv('/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/csvs/a3_q1_marks.csv')
+                ################# - MARKS 
+                # df = pd.read_csv('/Users/alishbahiqbal/Desktop/c2v_pytorch/Code2vec_Pytorch_pipeline/csvs/bon_appetit_marks.csv')
                 # var = file.split('/')[-1]
                 # print(var)
-                df1 = df.loc[df['FileName'] == file.split('/')[-1]]
+                # df = df.drop('Email')
+                ################# - MARKS 
+                # df1 = df.loc[df['FileName'] == file.split('/')[-1] ] 
+                # df1 = df.loc[df['FileName'] + '.c' == file.split('/')[-1] ] 
+                # df1 = df.loc[df['FileName'] == file] 
                 # print(df1)
                 # df1 = df.loc[df['FileName'] == 'number2.c']
-                marks = int(df1['Marks'])
+                # f.write(file)
+                ################# - MARKS 
+                # marks = int(df1['Marks'])
+                # marks = df1['Marks'].values[0]
                 # f.write(marks)
                 #yahanprint kra kr dekhlo k marks are k nai
                 # each try k ander bef marks - marks-embedding(3) marks in preprocess file in csv
                 try:
-                    f.write(str(marks))         #marks in first line(?) 
+                    ################# - MARKS 
+                    # f.write(str(marks))         #marks in first line(?) 
                     parse_single(file, include_dirs + inner_dirs, index) #embedding(3wali)
                     f.write("\n")    # uncomment when working on personal model
                 except:

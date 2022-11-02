@@ -1,6 +1,6 @@
 import create_vocab
 import data_to_tensors
-import model_implementation
+# import model_implementation
 from train_class import TrainingModule
 
 import torch
@@ -13,13 +13,13 @@ from torch.utils.data import DataLoader
 import pandas as pd
 from IPython.display import display
 
-# from transf.transformer import Transformer
+from transformer import Transformer
 
 
 
 def main():
     
-    bert = False
+    # bert = True
 
     N_EPOCHS = 100
     LR = 3e-3
@@ -31,13 +31,13 @@ def main():
     torch.cuda.manual_seed(SEED)
     torch.backends.cudnn.deterministic = True
     
-    data_root = 'bon_appetit_emb'
-    dataset_name = 'bon_appetit_emb'
+    data_root = 'without_emb/CODES_emb'
+    dataset_name = 'CODES_emb'
 
     dict_path = 'data/'+ data_root + '/' + dataset_name + '.dict.c2v'
     word2idx, path2idx, target2idx, idx2target = create_vocab.create_vocab(dict_path)
 
-    print('word', len(word2idx) )
+    # print('word', len(word2idx) )
     # print('Path', len(path2idx) )
     # print('target', len(target2idx) )
     # exit()
@@ -64,50 +64,47 @@ def main():
     val_loader = DataLoader(val_dataset, batch_size=512, shuffle=False)
     test_loader = DataLoader(test_dataset, batch_size=512, shuffle=False)
 
-    # In case of bert
-    bert_params = dict()
-    bert_params['num_attention_heads'] = 1
-    #1
-    bert_params['num_transformer_layers'] = 1
-    #1
-    bert_params['intermediate_size'] = 32
-    #32
+    # # In case of bert
+    # bert_params = dict()
+    # bert_params['num_attention_heads'] = 1
+    # bert_params['num_transformer_layers'] = 1
+    # bert_params['intermediate_size'] = 32
 
-    if bert:
-        model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
-                                paths_vocab_size = len(path2idx), 
-                                labels_num = len(target2idx), bert=bert, bert_params=bert_params, run_bert=bert)
-        torch.save(model, './' + dataset_name + '_article_model.pth')
-    else:
-         model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
-                                 paths_vocab_size = len(path2idx), 
-                                 labels_num = len(target2idx))
-         torch.save(model, './' + dataset_name + '_article_model.pth')
+    # if bert:
+    #     model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
+    #                             paths_vocab_size = len(path2idx), 
+    #                             labels_num = len(target2idx), bert=bert, bert_params=bert_params, run_bert=bert)
+    #     torch.save(model, './' + dataset_name + '_bert_model.pth')
+    # else:
+    #      model = model_implementation.code2vec_model(values_vocab_size = len(word2idx), 
+    #                              paths_vocab_size = len(path2idx), 
+    #                              labels_num = len(target2idx))
     
 
-    optimizer = torch.optim.Adam(model.parameters(), lr=LR, weight_decay=WD)
-    criterion = nn.CrossEntropyLoss()
+    # optimizer = torch.optim.Adam(model.parameters(), lr=LR, weight_decay=WD)
+    # criterion = nn.CrossEntropyLoss()
 
-    train_class = TrainingModule(model, optimizer, criterion, train_loader, val_loader, test_loader, N_EPOCHS, idx2target)
-    list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1,list_train_accuracy,list_val_accuracy = train_class.train( dataset=dataset_name)
+    # train_class = TrainingModule(model, optimizer, criterion, train_loader, val_loader, test_loader, N_EPOCHS, idx2target)
+    # list_train_loss, list_val_loss, list_train_precision, list_val_precision,list_train_recall, list_val_recall, list_train_f1, list_val_f1,list_train_accuracy,list_val_accuracy = train_class.train( dataset=dataset_name)
 
-    if bert == True:
-        # state_dict = torch.load('best_model.pth')
-        state_dict = torch.load('./' + dataset_name + '_article_model.pth')
-    else:
-        state_dict = torch.load( './' + dataset_name + '_article_model.pth')
+    # if bert == True:
+    #     # state_dict = torch.load('best_model.pth')
+    #     state_dict = torch.load('./' + dataset_name + '_bert_model.pth')
+    # else:
+    #     state_dict = torch.load( './' + dataset_name + '_article_model.pth')
 
     # model.load_state_dict(state_dict)
 
-    DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    # DEVICE = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-    model = model.to(DEVICE)
+    # model = model.to(DEVICE)
 
     d = {'Original names': [], 'Predicted names': []}
 
     for start, path, end, label in iter(test_loader):
         # get from model
-        code, y_pred = model(start.to(DEVICE), path.to(DEVICE), end.to(DEVICE))
+        # code, y_pred = model(start.to(DEVICE), path.to(DEVICE), end.to(DEVICE))
+        y_pred = Transformer()(start+path+end, label)
         # get probability
         y_pred = F.softmax(y_pred)
         # get best name index
@@ -124,11 +121,11 @@ def main():
         print(df)
 
 if __name__== "__main__":
-  # batch_size = int(input('Input batch size: '))
-  batch_size = 1024
-  # lr = float(input('Input learning rate: '))
-  lr = 0.01
-  # wd = float(input('Input weight decay: '))
-  wd = 0.01
+#   # batch_size = int(input('Input batch size: '))
+#   batch_size = 1024
+#   # lr = float(input('Input learning rate: '))
+#   lr = 0.01
+#   # wd = float(input('Input weight decay: '))
+#   wd = 0.01
 
   main()

@@ -1,7 +1,8 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-# from transformers import BertModel, BertConfig
+from transformers import BertModel, BertConfig
+# from tensorflow.keras.models import Model
 
 
 class code2vec_model(nn.Module):
@@ -20,7 +21,8 @@ class code2vec_model(nn.Module):
                paths_vocab_size = 0,
                labels_num = 0,
                bert = False,
-               bert_params = None):
+               bert_params = None, 
+               run_bert = False):
     super().__init__()
 
     self.values_vocab_size = values_vocab_size
@@ -31,6 +33,10 @@ class code2vec_model(nn.Module):
     self.embedding_dim = embedding_dim
     self.labels_num = labels_num
     self.bert = bert
+
+    self.scale = 0
+    # self.pos_embedding = 0
+    self.pos_embedding = nn.Embedding(512, self.embedding_dim)
     
     ## 1. Embeddings
     self.values_embedding = nn.Embedding(self.values_vocab_size, self.val_embedding_dim)
@@ -44,7 +50,8 @@ class code2vec_model(nn.Module):
 
 
     ## 3. Bert or attention vector a
-    if bert and bert_params != None:
+    if run_bert and bert and bert_params != None:
+      # print('BERT')
       num_attention_heads = bert_params['num_attention_heads']
       num_transformer_layers = bert_params['num_transformer_layers']
       intermediate_size = bert_params['intermediate_size']
@@ -58,6 +65,7 @@ class code2vec_model(nn.Module):
                                  
       self.bert = BertModel(configuration)
     else:
+      # print('NOT BERT')
       self.a = nn.Parameter(torch.randn(1, self.embedding_dim))
     ## 4. Prediction
     self.output_linear = nn.Linear(self.embedding_dim, self.labels_num, bias = False)

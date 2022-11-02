@@ -58,10 +58,12 @@ def process_file(file_path, data_file_role, dataset_name, word_to_count, path_to
                     max_unfiltered = len(contexts)
                 sum_total += len(contexts)
 
+
                 if len(contexts) > max_contexts:
                     context_parts = [c.split(',') for c in contexts]
                     # print('Contexts: {}'.format(context_parts))
-                    full_found_contexts = [c for i, c in enumerate(contexts)
+
+                    full_found_contexts = [c for i, c in enumerate(contexts) 
                                            if context_full_found(context_parts[i], word_to_count, path_to_count)]
                     partial_found_contexts = [c for i, c in enumerate(contexts)
                                               if context_partial_found(context_parts[i], word_to_count, path_to_count)
